@@ -10,10 +10,10 @@ Mānoa Club Compass is a centralized directory for UH Mānoa student organizatio
 - [Next.js application repository](https://github.com/manoa-club-compass/manoa-club-compass-nextjs)
 - [Project home repository](https://github.com/manoa-club-compass/manoa-club-compass.github.io)
 
-## Planned Features
+## Club Hub Scope
 
-- Browse and filter clubs by interest area.
-- View club descriptions, meeting times, locations, contacts, and websites.
+- Students can browse and filter clubs by interest area.
+- Students can view club descriptions, meeting times, locations, contacts, and websites.
 - Club administrators can update their club profile.
 - Site administrators can manage clubs, categories, and club-admin access.
 
@@ -35,9 +35,9 @@ Mānoa Club Compass is a centralized directory for UH Mānoa student organizatio
 
 [View the M2 Project page](https://github.com/orgs/manoa-club-compass/projects/3)
  
-## M1 Screenshots and Mockups
+## M1 Page Screenshots and Mockups
 
-The following screens show the M1 landing page and required supporting-page mockups.
+The following show the M1 landing page and the required supporting-page mockups.
 
 ### Landing Page
 
