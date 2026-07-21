@@ -4,8 +4,11 @@
 
 Mānoa Club Compass is a centralized directory for UH Mānoa student organizations. It helps students discover clubs, browse by interest area, and find meeting and contact information.
 
-## GitHub Organization
-[View the manoa-club-compass GitHub organization and all it's relevant repositories](https://github.com/manoa-club-compass)
+## GitHub Organization and Repositories
+
+- [Mānoa Club Compass organization](https://github.com/manoa-club-compass)
+- [Next.js application repository](https://github.com/manoa-club-compass/manoa-club-compass-nextjs)
+- [Project home repository](https://github.com/manoa-club-compass/manoa-club-compass.github.io)
 
 ## Planned Features
 
@@ -19,17 +22,22 @@ Mānoa Club Compass is a centralized directory for UH Mānoa student organizatio
 [View our Team Contract](https://docs.google.com/document/d/1Awi8W8y4iuA7VAnEgqY_-I3zPHUNi6GED164ORaw-MU/edit?tab=t.0)
 
 ## Deployment
-[View the deployed application on Vercel](https://manoa-club-compass-nextjs.vercel.app/)
+
+[Open Mānoa Club Compass on Vercel](https://manoa-club-compass-nextjs.vercel.app/)
 
 ## Milestones
  
 ### Milestone 1
-[View the M1 Project page](https://github.com/orgs/manoa-club-compass/projects/2/views/1)
+
+[View the M1 Project page](https://github.com/orgs/manoa-club-compass/projects/2)
   
 ### Milestone 2
-[View the M2 Project page (Placeholder)](google.com)
+
+[View the M2 Project page](https://github.com/orgs/manoa-club-compass/projects/3)
  
-## Planned Mockups
+## M1 Screenshots and Mockups
+
+The following screens show the M1 landing page and required supporting-page mockups.
 
 ### Landing Page
 
