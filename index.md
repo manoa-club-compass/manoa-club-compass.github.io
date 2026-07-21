@@ -39,22 +39,42 @@ Mānoa Club Compass is a centralized directory for UH Mānoa student organizatio
 
 The following show the M1 landing page and the required supporting-page mockups.
 
+### Landing Page Mockup
+
+![Landing-page mockup](images/landing-page-mockup.png)
+
 ### Landing Page
 
-![Landing-page mockup](images/landing-page.png)
+![Landing-page recent](images/landing-page.png)
+
+### Browse Clubs Mockup
+
+![Browse-clubs mockup](images/browse-clubs-mockup.png)
 
 ### Browse Clubs
 
-![Browse-clubs mockup](images/browse-clubs.png)
+![Browse-clubs recent](images/browse-clubs.png)
+
+### Club Details Mockup
+
+![Club-details mockup](images/club-details-mockup.png)
 
 ### Club Details
 
-![Club-details mockup](images/club-details.png)
+![Club-details recent](images/club-details.png)
+
+### Club Admin Dashboard Mockup
+
+![Club-admin mockup](images/club-admin-mockup.png)
 
 ### Club Admin Dashboard
 
-![Club-admin mockup](images/club-admin.png)
+![Club-admin recent](images/club-admin.png)
+
+### Admin Dashboard Mockup
+
+![Admin mockup](images/admin-dashboard-mockup.png)
 
 ### Admin Dashboard
 
-![Admin mockup](images/admin-dashboard.png)
+![Admin recent](images/admin-dashboard.png)
