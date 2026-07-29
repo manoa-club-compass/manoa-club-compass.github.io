@@ -1,5 +1,7 @@
 # Mānoa Club Compass
 
+[![Club Compass CI](https://github.com/manoa-club-compass/manoa-club-compass-nextjs/actions/workflows/ci.yml/badge.svg)](https://github.com/manoa-club-compass/manoa-club-compass-nextjs/actions/workflows/ci.yml)
+
 ## Overview
 
 Mānoa Club Compass is a centralized directory for UH Mānoa student organizations. It helps students discover clubs, browse by interest area, and find meeting and contact information.
