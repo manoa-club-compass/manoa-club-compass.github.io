@@ -37,6 +37,9 @@ Mānoa Club Compass is a centralized directory for UH Mānoa student organizatio
 
 [View the M2 Project page](https://github.com/orgs/manoa-club-compass/projects/3)
 
+### Milestone 3 
+[View the M3 Project page](https://github.com/orgs/manoa-club-compass/projects/4)
+
 ## User Guide
 
 ### Landing Page
