@@ -104,7 +104,7 @@ The app should run at http://localhost:3000.
  
 ## M1 Page  Mockups
 
-The following show the M1 landing page and the required supporting-page mockups.
+The following show the M1 required supporting-page mockups.
 
 ### Landing Page Mockup
 
