@@ -37,7 +37,33 @@ Mānoa Club Compass is a centralized directory for UH Mānoa student organizatio
 
 [View the M2 Project page](https://github.com/orgs/manoa-club-compass/projects/3)
 
-### Developer Guide
+## User Guide
+
+### Landing Page
+
+![Landing-page recent](images/landing-page.png)
+
+Upon loading in the app, the user is directed to the landing page where they can select to log in or sign in, or click the browse clubs button to browse instead.
+
+### Browse Clubs
+
+![Browse-clubs recent](images/browse-clubs.png)
+
+The browse clubs page include a variety number of clubs made by various club admins. Users can sort by categories or search by name. Click on view details to view more in depth information about each club. 
+
+### Club Details
+
+![Club-details recent](images/club-details.png)
+
+Users can view in depth detail about specific clubs, including information about the club, and how to contact each club via email. 
+
+### Club Admin Dashboard
+
+![Club-admin recent](images/club-admin.png)
+
+Users logged in can have access to their own Club Admin Dashboard tab, where they can create and adjust their clubs name, descriptions, cateogries, website link, and contact email for public viewing. 
+
+## Developer Guide
  
 1. **Install PostgreSQL** and create a database:
 ```
@@ -76,7 +102,7 @@ npm run dev
 The app should run at http://localhost:3000.
 
  
-## M1 Page Screenshots and Mockups
+## M1 Page  Mockups
 
 The following show the M1 landing page and the required supporting-page mockups.
 
@@ -84,33 +110,18 @@ The following show the M1 landing page and the required supporting-page mockups.
 
 ![Landing-page mockup](images/landing-page-mockup.png)
 
-### Landing Page
-
-![Landing-page recent](images/landing-page.png)
-
 ### Browse Clubs Mockup
 
 ![Browse-clubs mockup](images/browse-clubs-mockup.png)
-
-### Browse Clubs
-
-![Browse-clubs recent](images/browse-clubs.png)
 
 ### Club Details Mockup
 
 ![Club-details mockup](images/club-details-mockup.png)
 
-### Club Details
-
-![Club-details recent](images/club-details.png)
-
 ### Club Admin Dashboard Mockup
 
 ![Club-admin mockup](images/club-admin-mockup.png)
 
-### Club Admin Dashboard
-
-![Club-admin recent](images/club-admin.png)
 
 ### Admin Dashboard Mockup
 
@@ -119,3 +130,5 @@ The following show the M1 landing page and the required supporting-page mockups.
 ### Admin Dashboard
 
 ![Admin recent](images/admin-dashboard.png)
+
+*Not yet implemented
