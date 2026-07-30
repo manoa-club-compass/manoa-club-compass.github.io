@@ -36,6 +36,45 @@ Mānoa Club Compass is a centralized directory for UH Mānoa student organizatio
 ### Milestone 2
 
 [View the M2 Project page](https://github.com/orgs/manoa-club-compass/projects/3)
+
+### Developer Guide
+ 
+1. **Install PostgreSQL** and create a database:
+```
+createdb manoa-club-compass
+```
+ 
+2. Clone the repo on Github.
+  
+3. Install dependencies:
+```
+npm install
+```
+ 
+4. Create your `.env` file — copy `sample.env` to `.env` and update `DATABASE_URL`.
+  
+5. Run migrations:
+```
+npx prisma migrate dev
+```
+ 
+6. Generate the Prisma client:
+```
+npx prisma generate
+```
+ 
+7. Seed the database:
+```
+npm run seed
+```
+ 
+8. Start the dev server:
+```
+npm run dev
+```
+ 
+The app should run at http://localhost:3000.
+
  
 ## M1 Page Screenshots and Mockups
 
