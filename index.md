@@ -15,9 +15,9 @@ Mānoa Club Compass is a centralized directory for UH Mānoa student organizatio
 ## Club Compass Scope
 
 - Students can browse and filter clubs by interest area.
-- Students can view club descriptions, meeting times, locations, contacts, and websites.
+- Students can view club descriptions, categories, contacts, and websites.
 - Club administrators can update their club profile.
-- Site administrators can manage clubs, categories, and club-admin access.
+- Super Admins can review club profiles and save approval or rejection decisions.
 
 ## Team Contract
 
@@ -46,25 +46,37 @@ Mānoa Club Compass is a centralized directory for UH Mānoa student organizatio
 
 ![Landing-page recent](images/landing-page.png)
 
-Upon loading in the app, the user is directed to the landing page where they can select to log in or sign in, or click the browse clubs button to browse instead.
+The landing page introduces Mānoa Club Compass. Select **Browse clubs** to explore the directory without signing in, or use the navigation menu to sign in or create an account.
+
+### Accounts and Role Access
+
+Select **Sign up** to create a student account with an email address and password. Returning users can select **Sign in** and enter their credentials. After signing in, use the account menu to sign out. Club Admin and Super Admin navigation options appear only for accounts with those roles.
 
 ### Browse Clubs
 
 ![Browse-clubs recent](images/browse-clubs.png)
 
-The browse clubs page include a variety number of clubs made by various club admins. Users can sort by categories or search by name. Click on view details to view more in depth information about each club. 
+Use the search box to find clubs by name, description, or interest area. Use the category menu to narrow the directory. Select **View details** on any result to open its full profile.
 
 ### Club Details
 
 ![Club-details recent](images/club-details.png)
 
-Users can view in depth detail about specific clubs, including information about the club, and how to contact each club via email. 
+The Club Details page displays the organization’s description, interest area, website, and contact information when those details are available. Use the listed website or email address to contact the organization.
 
 ### Club Admin Dashboard
 
 ![Club-admin recent](images/club-admin.png)
 
-Users logged in can have access to their own Club Admin Dashboard tab, where they can create and adjust their clubs name, descriptions, cateogries, website link, and contact email for public viewing. 
+Club Admins can open **Club admin** after signing in. They can create or update their organization’s name, description, interest area, website, and contact email. Select **Create club** or **Save changes** to store the profile in the directory.
+
+Regular student accounts cannot open the Club Admin or Admin Dashboard pages.
+
+### Super Admin Dashboard
+
+![Current Super Admin review queue](images/admin-dashboard.png)
+
+Super Admins can open **Admin dashboard** to review every club profile. Each row shows the club’s category and saved review status. Select **Approve** or **Reject** to record a decision. The status badge updates after the action and remains saved after the page is reloaded.
 
 ## Developer Guide
  
@@ -129,9 +141,3 @@ The following show the M1 required supporting-page mockups.
 ### Admin Dashboard Mockup
 
 ![Admin mockup](images/admin-dashboard-mockup.png)
-
-### Admin Dashboard
-
-![Admin recent](images/admin-dashboard.png)
-
-*Not yet implemented
