@@ -78,6 +78,31 @@ Regular student accounts cannot open the Club Admin or Admin Dashboard pages.
 
 Super Admins can open **Admin dashboard** to review every club profile. Each row shows the club’s category and saved review status. Select **Approve** or **Reject** to record a decision. The status badge updates after the action and remains saved after the page is reloaded.
 
+## Community Feedback
+
+Five UH community members outside ICS 314 tested the deployed application on mobile and desktop devices. To protect their privacy, the findings below are reported in aggregate without names, affiliations, devices, test dates, or individual quotations.
+
+Testers completed the same short workflow: identify the application’s purpose, browse the club directory, search for an interest, filter by category, open a club profile, and describe what worked and what should improve. Their average usefulness rating was **3.4 out of 5**.
+
+### What worked well
+
+- The application’s purpose and primary navigation were immediately understandable.
+- Search, category filtering, and club cards were simple to use.
+- The responsive layout remained readable on smaller screens and at increased zoom levels.
+- Searching description text helped testers discover relevant clubs beyond exact name matches.
+
+### What needs improvement
+
+- Club profiles need more complete and current information, especially meeting times, locations, verification status, and last-updated dates.
+- Search and filter choices should be reflected in the URL, and result counts would make filtered views easier to understand and share.
+- Club names should appear in page headings and browser tab titles for clearer navigation and better screen-reader support.
+- Loading failures, empty searches, and missing club pages need clear recovery actions instead of dead ends or misleading empty states.
+- Club officers need a clearer path to claim and maintain their organization’s listing.
+
+### Team response
+
+Milestone 3 added a Super Admin review workflow that records approval and rejection decisions. The feedback shows that the public directory must also communicate verification clearly and avoid exposing incomplete or test records. Meeting details, shareable filter URLs, page metadata and heading improvements, resilient error states, and a club-claim workflow are documented as priorities for future development. These findings are based on the five testers’ actual responses; no participant feedback was generated or inferred by the team.
+
 ## Developer Guide
  
 1. **Install PostgreSQL** and create a database:
